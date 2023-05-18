@@ -1,5 +1,5 @@
 {
-  "name": "form-fields",
+  "name": "react-native-form-fields",
   "version": "1.0.0",
   "description": "",
   "main": "dist/module/index.js",
@@ -14,10 +14,19 @@
     "prepare": "bob build"
   },
   "author": "Sahil Saxena",
+  "repository": "https://github.com/SahilMoglix/react-native-form-fields",
   "license": "ISC",
   "dependencies": {
     "@react-native-community/bob": "^0.17.1"
   },
+  "keywords": [
+    "react-native",
+    "form",
+    "fields",
+    "form-fields",
+    "ios",
+    "android"
+  ],
   "@react-native-community/bob": {
     "source": "src",
     "output": "dist",
