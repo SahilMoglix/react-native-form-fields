@@ -1,6 +1,6 @@
 {
   "name": "@sahilmoglix/react-native-form-fields",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/module/index.js",
   "module": "dist/module/index.js",
